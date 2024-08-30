@@ -7,8 +7,8 @@ description = "AMM interface to integrate a DEX into jupiter-core"
 keywords = ["solana", "jupiter", "aggregator"]
 
 [dependencies]
-solana-sdk = "^1.16"
-solana-account-decoder = "^1.16"
+solana-sdk = "^1.18"
+solana-account-decoder = "^1.18"
 anyhow = "1"
 serde_json = "^1"
 serde = "^1"
